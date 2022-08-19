@@ -1,0 +1,16 @@
+body{
+    background-color: tomato;
+}
+
+.container{
+    height: 70vh;
+    width: 80%;
+    border: 2px solid black;
+    padding: 10px;
+}
+
+.box{
+    height: 60px;
+    width: 60px;
+    border: 2px solid black;
+}

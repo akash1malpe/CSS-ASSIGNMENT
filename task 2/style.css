@@ -1,0 +1,44 @@
+*{
+    background-color: mediumspringgreen;
+  
+  
+}
+
+.Box1{
+    background-color: green;
+    padding: 40px;
+    border: 2px dotted black;
+}
+
+.Box2{
+    background-color: orangered;
+    padding: 40px;
+    border: 2px  dashed black;
+    width: 50%;
+    
+    position: relative;
+    top: -70px;
+}
+
+a{
+    background-color: green;
+    color: white;
+    font-weight: bold;
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 10px;
+    text-decoration: none;
+}
+
+ol,li{
+    background-color: hotpink;
+    list-style-type:none ;
+    padding: 10px;
+}
+
+
+li{
+    text-decoration-style: none;
+    text-align: center;
+
+}

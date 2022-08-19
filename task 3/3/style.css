@@ -1,0 +1,39 @@
+body{
+    background-color: aqua;
+}
+
+
+
+#abc{
+    font-size:100px;
+}
+
+
+#abc2{
+    font-size: 3rem;
+    background-color: red;
+    color: white;
+}
+
+
+.box1{
+    background-color:darkcyan;
+    padding: 10px;
+    border: 2px solid black;
+    margin: 10px;
+    width:60%;
+    max-height:100%;                                                                                                              
+  
+}
+
+.box2{
+    
+background-color:darkcyan;
+padding: 10px;
+border: 2px solid black;
+margin: 10px;
+width: 60%;
+min-height: 20%;  
+}
+
+

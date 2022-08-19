@@ -1,0 +1,16 @@
+body{
+    background-color: aqua;
+   
+   
+   
+}
+
+div{
+    background-color: aquamarine;
+    padding: 10px;
+    border: 2px solid green;
+    margin: 20px;
+    /* height: 100%;
+    width: 100%; */
+
+}
